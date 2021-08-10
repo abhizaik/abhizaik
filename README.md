@@ -2,5 +2,5 @@
 
 - 🌱 I’m currently learning Python and it's awesome libraries for DS.
 - 🔭 Amazed by the process of reading insights from data.
-- 🌐 My portfolio website and blog : [DataSafari.](https://datasafari.in)
+- 🌐 My portfolio website and blog is live at [DataSafari.](https://datasafari.in)
 - 📫 Feel free to connect with me on [Linkedin](https://linkedin.com/in/akpmpr) and [Twitter.](https://twitter.com/datasafari)
