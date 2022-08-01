@@ -1,4 +1,4 @@
-### Hey, I'm incogGod ! 👋
+### Hey ! 👋
 
 I'm a software engineer with keen interest in web development and cyber security. I love to learn and share stuffs related to computers, internet, online privacy and web security. Feel free to connect with me if you'd like to see or contribute to what I'm doing.
 
