@@ -25,7 +25,7 @@ I'm a software engineer with keen interest in web development and cyber security
 
 - 👀 Checkout my **[website](https://incogGod.in)** and feel free to connect with me on my other **[online profiles.](https://links.incogGod.in)** 
 
-- ⚡ Fun fact **I'm little paranoid about my privacy haha .. ha ..**
+- ⚡ Fun fact : **I'm little paranoid about my online privacy haha .. ha ..**
 
  <br>
 
