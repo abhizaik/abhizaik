@@ -1,8 +1,8 @@
 
 
-<h2 align="left">Hi 👋, I'm incogGod</h2>
+<h2 align="left">Hi 👋, I'm incogGod !</h2>
 
-I'm a software engineer with keen interest in web development and cyber security. I love to learn and share stuffs related to computers, internet, online privacy and web security. Feel free to connect with me if you'd like to see or contribute to what I'm doing.
+Self-taught software engineer with keen interest in web development and cyber security. I love to learn and share stuffs related to computers, internet, online privacy and web security. Feel free to connect with me if you'd like to see or contribute to what I'm doing.
 <br><br>
 
 <!--
@@ -17,15 +17,16 @@ I'm a software engineer with keen interest in web development and cyber security
 - 📄 Know about my experiences [incoggod.in](incoggod.in)
 
 -->
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently focusing on **Data Structures and Algorithms**
 
 - 💬 Ask me about **Python, DSA and Online Privacy**
 
-- 📫 Email me at **incoggod@proton.me**
+- 📫 E-mail me at **incoggod@proton.me**
 
 - 👀 Checkout my **[website](https://incogGod.in)** and feel free to connect with me on my other **[online profiles.](https://links.incogGod.in)** 
 
-- ⚡ Fun fact : **I'm little paranoid about my online privacy haha .. ha ..**
+- ⚡ Fun fact : I'm a little paranoid about my **online privacy** haha .. ha.
+
 
  <br>
 
