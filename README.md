@@ -23,7 +23,7 @@ Self-taught software engineer with keen interest in web development and cyber se
 
 - 📫 E-mail me at **incoggod@proton.me**
 
-- 👀 Checkout my **[website](https://incogGod.in)** and feel free to connect with me on my other **[online profiles.](https://links.incogGod.in)** 
+- 👀 Checkout my **[website](https://incoggod.com)** and feel free to connect with me on my other **[online profiles.](https://incoggod.com/contact/)** 
 
 - ⚡ Fun fact : I'm a little paranoid about my **online privacy** haha .. ha.
 
