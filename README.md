@@ -17,15 +17,13 @@ Self-taught software engineer with keen interest in web development and cyber se
 - 📄 Know about my experiences [incoggod.in](incoggod.in)
 
 -->
-- 🔭 I’m currently working on [SafeSurf](https://safesurf.vercel.app).
-
-- 💬 Ask me about **Python, DSA and Online Privacy**
+- 🔭 I’m currently working on **[SafeSurf](https://safesurf.vercel.app)**
 
 - 📫 E-mail me at **incoggod@proton.me**
 
-- 👀 Checkout my website and blog **[here](https://incoggod.com)**. 
+- 👀 Checkout my website and blog **[here](https://incoggod.com)**
 
-- ⚡ Fun fact : I'm a little paranoid about my online privacy, haha.
+- ⚡ Fun fact : I'm a little paranoid about my online privacy.
 
  <br>
 
