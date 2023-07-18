@@ -19,9 +19,9 @@ Self-taught software engineer with keen interest in web development and cyber se
 -->
 - 🔭 Checkout my last hobby project **[SafeSurf](https://safesurf.vercel.app)**
 
-- 📫 E-mail me at **incoggod@proton.me**
+- 📫 E-mail me at **abhizaik@gmail.com**
 
-- 👀 Visit my website and blog **[here](https://incoggod.com)**
+- 👀 Visit my website and blog **[here](https://abhishekkp.com)**
 
 - ⚡ Fun fact : I'm a little paranoid about my online privacy.
 
@@ -29,10 +29,10 @@ Self-taught software engineer with keen interest in web development and cyber se
 
 <h3 align="left">Connect With Me :</h3>
 <p align="left">
-<a href="https://twitter.com/incoggod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="incoggod" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/incoggod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="incoggod" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/incoggod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="incoggod" height="30" width="40" /></a>
-<a href="https://medium.com/@incoggod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@incoggod" height="30" width="40" /></a>
+<a href="https://twitter.com/abhizaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="incoggod" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhizaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="incoggod" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abhizaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="incoggod" height="30" width="40" /></a>
+<a href="https://medium.com/@abhizaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@incoggod" height="30" width="40" /></a>
 </p>
 <!--
 <a href="https://instagram.com/incoggod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="incoggod" height="30" width="40" /></a>
