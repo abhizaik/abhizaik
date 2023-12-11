@@ -1,29 +1,19 @@
 
 
-<h2 align="left">Hi 👋, I'm Abhishek K P !</h2>
+<h2 align="left">Hi, I'm abhizaik</h2>
 
 Self-taught software engineer with keen interest in web development and cyber security. I love to learn and share stuffs related to computers, internet, online privacy and web security. Feel free to connect with me if you'd like to see or contribute to what I'm doing.
 <br><br>
 
-<!--
-- 🔭 I’m currently working on [PP](incoggod.in)
-
-- 👯 I’m looking to collaborate on [PP](incoggod.in)
-
-- 👨‍💻 All of my projects are available at [incoggod.in](incoggod.in)
-
-- 📝 I regularly write articles on [blog.incoggod.in](blog.incoggod.in)
-
-- 📄 Know about my experiences [incoggod.in](incoggod.in)
 
 -->
-- 🔭 Checkout my last hobby project **[SafeSurf](https://safesurf.vercel.app)**
+- 🔭 Checkout my hobby project on scam link detection **[SafeSurf](https://safesurf.vercel.app)**
 
 - 📫 E-mail me at **abhizaik@gmail.com**
 
 - 👀 Visit my website and blog **[here](https://abhishekkp.com)**
 
-- ⚡ Fun fact : I'm a little paranoid about my online privacy.
+<!-- - ⚡ Fun fact : I'm a little paranoid about my online privacy. -->
 
  <br>
 
