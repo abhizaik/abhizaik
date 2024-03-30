@@ -19,12 +19,12 @@ Self-taught software engineer with keen interest in web development and cyber se
 
 <h3 align="left">Connect With Me :</h3>
 <p align="left">
-<a href="https://twitter.com/abhizaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="incoggod" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhizaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="incoggod" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhizaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="incoggod" height="30" width="40" /></a>
-<a href="https://medium.com/@abhizaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@incoggod" height="30" width="40" /></a>
+<a href="https://twitter.com/abhizaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhizaik" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhizaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhizaik" height="30" width="40" /></a>
+<a href="https://medium.com/@abhizaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhizaik" height="30" width="40" /></a>
 </p>
 <!--
+<a href="https://www.leetcode.com/abhizaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="incoggod" height="30" width="40" /></a>
 <a href="https://instagram.com/incoggod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="incoggod" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/incoggod" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="incoggod" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/incoggod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="incoggod" height="30" width="40" /></a>
