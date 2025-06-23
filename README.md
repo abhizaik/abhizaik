@@ -9,9 +9,9 @@ Self-taught software engineer with keen interest in web development and cyber se
 
 - 🔭 Checkout my hobby project on scam link detection **[SafeSurf](https://safesurf.vercel.app)**
 
-- 📫 E-mail me at **abhizaik@gmail.com**
+- 📫 E-mail me at **hi@abhizaik.com**
 
-- 👀 Visit my website and blog **[here](https://abhishekkp.com)**
+- 👀 Visit my website and blog **[here](https://abhizaik.com)**
 
 <!-- - ⚡ Fun fact : I'm a little paranoid about my online privacy. -->
 
