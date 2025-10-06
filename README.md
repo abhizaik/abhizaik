@@ -1,25 +1,18 @@
 
-
 ## hi, i'm abhizaik
 
 self-taught software engineer with a keen interest in servers and security. i enjoy learning, building and sharing stuff related to computers, internet and online privacy. open to collab and conversations.
 
+- 🔭 check out my project on scam link detection 👉 <b><a href="https://safesurf.vercel.app" target="_blank">safesurf</a></b>
 
+- 📫 reach me at <b><a href="https://abhizaik.com/contact" target="_blank">abhizaik.com/contact</a></b> or <b><a href="mailto:hi@abhizaik.com" target="_blank">hi@abhizaik.com</a></b>
 
-- 🔭 check out my project on scam link detection 👉 **[safesurf](https://safesurf.vercel.app)**
+- 📝 read my thoughts at <b><a href="https://abhizaik.com/blog" target="_blank">abhizaik.com/blog</a></b>
 
-- 📫 reach me at **[abhizaik.com/contact](https://abhizaik.com/contact)** or **hi@abhizaik.com**
+- 👨‍💻 check my projects at <b><a href="https://abhizaik.com/projects" target="_blank">abhizaik.com/projects</a></b>
 
-- 📝 read my thoughts at **[abhizaik.com/blog](https://abhizaik.com/blog)**
+#### connect with me
 
-- 👨‍💻 check my projects at **[abhizaik.com/projects](https://abhizaik.com/projects)**
-
-
-
-#### connect with me:
-
-<a href="https://x.com/abhizaik" target="blank"><img align="center" src="static/x.png" alt="abhizaik" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/abhizaik" target="blank"><img align="center" src="static/linkedin.png" alt="abhizaik" height="39" width="39" /></a>
-<a href="https://medium.com/@abhizaik" target="blank"><img align="center" src="static/medium.png" alt="@abhizaik" height="38" width="38" /></a>
-
-
+<a href="https://x.com/abhizaik" target="_blank"><img align="center" src="static/x.png" alt="abhizaik" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/abhizaik" target="_blank"><img align="center" src="static/linkedin.png" alt="abhizaik" height="39" width="39" /></a>
+<a href="https://medium.com/@abhizaik" target="_blank"><img align="center" src="static/medium.png" alt="@abhizaik" height="38" width="38" /></a>
