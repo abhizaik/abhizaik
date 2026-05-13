@@ -3,7 +3,7 @@
 
 self-taught software engineer with a keen interest in servers and security. i enjoy learning, building and sharing stuff related to computers, internet and online privacy. open to collab and conversations.
 
-- 🔭 check out my project on scam link detection 👉 <b><a href="https://safesurf.vercel.app" target="_blank">safesurf</a></b>
+- 🔭 check out my work on phishing link detection <b><a href="https://url.vet" target="_blank">url.vet</a></b>
 
 - 📫 reach me at <b><a href="https://abhizaik.com/contact" target="_blank">abhizaik.com/contact</a></b> or <b><a href="mailto:hi@abhizaik.com" target="_blank">hi@abhizaik.com</a></b>
 
